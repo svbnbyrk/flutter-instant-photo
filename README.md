@@ -1,2 +1,2 @@
 # flutter-instant-photo
-Instant photo app with Flutter&amp;Dart
+Instant photo app with Flutter&amp;Dart 
